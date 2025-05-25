@@ -35,7 +35,7 @@ _\*Turdes works on iOS, Android, Web, and Windows._
 
 ---
 
-## Running Tests 🧪
+## Running Tests 
 
 To run all unit and widget tests use the following command:
 
